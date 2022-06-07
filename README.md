@@ -1,1 +1,1 @@
-# specalc-user-service
+Spending calculator service for storing user information
